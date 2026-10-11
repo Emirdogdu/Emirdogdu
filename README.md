@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Emirdogdu/Emirdogdu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Emir**, a Molecular Biology & Genetics undergraduate with research experience at **KU Leuven, Belgium**.
 
-Here are some ideas to get you started:
+I work with **GROMACS** and **Martini 3**, focusing on molecular dynamics and coarse-grained modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Interests
+- Molecular Simulation & Computational Biophysics
+- Computational Drug Discovery
+- AI for Molecular Science
+
+### 🛠️ Skills
+- **Tools:** GROMACS, Martini 3
+- **Research:** Molecular Modeling, Simulation Analysis
+  
