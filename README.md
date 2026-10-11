@@ -4,12 +4,12 @@ I'm **Emir**, a Molecular Biology & Genetics undergraduate with research experie
 
 I work with **GROMACS** and **Martini 3**, focusing on molecular dynamics and coarse-grained modeling.
 
-### 🔬 Interests
+###  Interests
 - Molecular Simulation & Computational Biophysics
 - Computational Drug Discovery
 - AI for Molecular Science
 
-### 🛠️ Skills
+###  Skills
 - **Tools:** GROMACS, Martini 3
 - **Research:** Molecular Modeling, Simulation Analysis
   
